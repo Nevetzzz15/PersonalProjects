@@ -7,7 +7,7 @@ Bienvenido a mi portafolio de proyectos desarrollados durante mis cursos en lín
 
 ## Tecnologías y Herramientas
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS.
+- **Frontend:** HTML, CSS, JavaScript, CSS.
 - **Backend:** Node.js, Express, MongoDB.
 - **Control de Versiones:** Git, GitHub.
 
