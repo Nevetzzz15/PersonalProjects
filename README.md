@@ -5,7 +5,7 @@ Bienvenido a mi portafolio de proyectos desarrollados durante mis cursos en lín
 
 **Sitio web del primer proyecto:** [freelancer-steven.netlify.app](https://freelancer-steven.netlify.app/)
 
-##Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS.
 - **Backend:** Node.js, Express, MongoDB.
