@@ -10,6 +10,6 @@ Bienvenido a mi portafolio de proyectos desarrollados durante mis cursos en lín
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS.
 - **Backend:** Node.js, Express, MongoDB.
 - **Control de Versiones:** Git, GitHub.
-- **Otras Herramientas:** Vite, Postman.
+
 
 
